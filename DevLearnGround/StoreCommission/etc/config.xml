@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <store_commission>
+            <storecommission>
+                <enable>0</enable>
+                <commission_type>percentage</commission_type>
+                <commission_value>0</commission_value>
+                <roundoff_commission>1</roundoff_commission>
+            </storecommission>
+        </store_commission>
+    </default>
+</config>
